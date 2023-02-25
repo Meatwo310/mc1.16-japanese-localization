@@ -1,0 +1,43 @@
+{
+  "tooltip.solpotato.disabled": "この食べ物は食事バランスに影響を与えません。",
+  
+  "command.solpotato.solpotato.no_permissions": "You do not have the permissions necessary to apply this command to other players!",
+
+  "command.solpotato.solpotato.clear.success": "Food list reset!",
+  "command.solpotato.solpotato.diversity_feedback": "Food Diversity: %.2f",
+  "command.solpotato.solpotato.sync.success": "Food list synchronized!",
+
+  "item.solpotato.food_book": "食べ物の本",
+  "item.solpotato.lunchbox": "弁当箱",
+  "item.solpotato.container.lunchbox": "弁当箱",
+  "item.solpotato.golden_lunchbox": "金の弁当箱",
+  "item.solpotato.container.golden_lunchbox": "金の弁当箱",
+  "item.solpotato.lunchbag": "紙袋",
+  "item.solpotato.container.lunchbag": "紙袋",
+
+  "key.solpotato.open_food_book": "食べ物の本を開く",
+  "key.solpotato.category": "Spice of Life: Potato Edition",
+  
+  "gui.solpotato.food_book.stats": "概要",
+  "gui.solpotato.food_book.stats.current_diversity": "現在の食事バランス",
+  "gui.solpotato.food_book.stats.min_warning1": "あと%d回なにか食べて",
+  "gui.solpotato.food_book.stats.min_warning2": "バフを有効化します",
+  "gui.solpotato.food_book.active_benefits_header": "有効なバフ",
+  "gui.solpotato.food_book.inactive_benefits_header": "無効なバフ",
+  "gui.solpotato.food_book.benefits.threshold_label": "しきい値",
+  "gui.solpotato.food_book.benefits.active_tooltip": "食事バランスがこの値より良いため、バフが有効です。",
+  "gui.solpotato.food_book.benefits.inactive_tooltip": "食事バランスがこの値より良くなると、バフが有効になります。",
+  "gui.solpotato.food_book.food_queue_label": "食べたもの",
+  "gui.solpotato.food_book.queue.food_queue_tooltip": "食事バランスに影響を与えた食べたものすべて",
+
+  "gui.solpotato.food_book.fraction": "%1$s/%2$s",
+
+  "gui.solpotato.food_book.queue.tooltip.contribution_label": "食事バランスへの影響",
+  "gui.solpotato.food_book.queue.tooltip.last_eaten_label": "%d回前に食べた",
+  "gui.solpotato.food_book.queue.tooltip.last_eaten_label_singular": "%d回前に食べた",
+  
+  "config.solpotato.is_food_tooltip_enabled": "Enable Food Tooltip",
+  "config.solpotato.food_blacklist": "Blacklist",
+  "config.solpotato.food_whitelist": "Whitelist (disables blacklist)",
+  "config.solpotato.reset_on_death": "Reset on Death"
+}

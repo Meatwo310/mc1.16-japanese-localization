@@ -1,0 +1,14 @@
+{
+    "key.toggleLiquids": "液体を表示/非表示",
+    "key.toggleVisible": "表示/非表示",
+    "key.categories.theoneprobe": "The One Probe",
+    "item.theoneprobe.probe": "The One Probe",
+    "item.theoneprobe.probe_goggles": "The One Probe (Bauble)",
+    "item.theoneprobe.diamond_helmet_probe": "Probe付きのダイヤモンドのヘルメット",
+    "item.theoneprobe.gold_helmet_probe": "Probe付きの金のヘルメット",
+    "item.theoneprobe.iron_helmet_probe": "Probe付きの鉄のヘルメット",
+    "item.theoneprobe.creativeprobe": "The Creative Probe",
+    "item.theoneprobe.probenote": "The One Probe Read Me",
+
+    "itemGroup.Probe": "The One Probe"
+}

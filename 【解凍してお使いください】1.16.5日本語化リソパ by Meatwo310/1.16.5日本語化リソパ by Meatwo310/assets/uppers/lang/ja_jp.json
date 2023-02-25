@@ -1,0 +1,17 @@
+{
+	"_comment": "Items",
+	"item.uppers.upper_item": "アッパー",
+	
+	"_comment": "Blocks",
+	"block.uppers.upper": "アッパー",
+	  
+	"_comment": "Tool Tips",
+	"tooltip.upper_1": "上下逆さまのホッパーのように動作します。",
+	"tooltip.upper_2": "アイテムを下のブロックから上へ吸い上げます。",
+	
+	"_comment": "Gui",
+	"container.upper": "アッパー",
+
+	"_comment": "Creative Tabs",
+	"itemGroup.uppers": "Uppers"
+}

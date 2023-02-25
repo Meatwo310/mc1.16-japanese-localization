@@ -1,0 +1,17 @@
+{
+  "itemGroup.toughasnails": "Tough As Nails",
+
+  "container.toughasnails.water_purifier": "浄化装置",
+  "effect.toughasnails.thirst": "脱水",
+
+  "item.toughasnails.tan_icon": "TAN Icon",
+  "item.toughasnails.empty_canteen": "空の水筒",
+  "item.toughasnails.water_canteen": "水入りの水筒",
+  "item.toughasnails.dirty_water_canteen": "汚れた水入りの水筒",
+  "item.toughasnails.purified_water_canteen": "きれいな水入りの水筒",
+  "item.toughasnails.dirty_water_bottle": "汚れた水入りの瓶",
+  "item.toughasnails.purified_water_bottle": "きれいな水入りの瓶",
+
+  "block.toughasnails.rain_collector": "雨水収集機",
+  "block.toughasnails.water_purifier": "浄化装置"
+}

@@ -1,0 +1,7 @@
+{
+  "block.easy_piglins.barterer": "物々交換所",
+  "itemGroup.easy_piglins": "Easy Piglins",
+  "gui.easy_piglins.input_items": "アイテム搬入",
+  "gui.easy_piglins.output_items": "アイテム搬出",
+  "message.easy_piglins.cant_pick_up": "敵対しているか忙しいピグリンは拾えません"
+}

@@ -1,0 +1,9 @@
+{
+  "walljump.key.walljump": "壁キック/壁のぼり",
+  "enchantment.walljump.walljump": "壁キック！",
+  "enchantment.walljump.doublejump": "空中ジャンプ",
+  "enchantment.walljump.speedboost": "ダッシュ",
+  "enchantment.walljump.walljump.desc": "壁から壁へジャンプ！",
+  "enchantment.walljump.doublejump.desc": "空中でジャンプ！",
+  "enchantment.walljump.speedboost.desc": "ダッシュ中の速度上昇！"
+}

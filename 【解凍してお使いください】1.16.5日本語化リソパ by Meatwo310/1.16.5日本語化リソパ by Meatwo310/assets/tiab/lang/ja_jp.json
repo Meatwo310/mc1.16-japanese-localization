@@ -1,0 +1,5 @@
+{
+  "itemGroup.tiab": "Time in a bottle",
+  "item.tiab.timeinabottle": "瓶入りの時間",
+  "item.tiab.timeinabottle.tooltip": "貯めた時間 %s:%s:%s"
+}

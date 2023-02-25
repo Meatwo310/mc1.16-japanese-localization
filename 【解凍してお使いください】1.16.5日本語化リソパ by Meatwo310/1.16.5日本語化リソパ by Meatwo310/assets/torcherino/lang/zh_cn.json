@@ -1,0 +1,8 @@
+{
+  "block.torcherino.torcherino": "\u52a0\u901f\u706b\u628a",
+  "block.torcherino.compressed_torcherino": "\u538b\u7f29\u52a0\u901f\u706b\u628a",
+  "block.torcherino.double_compressed_torcherino": "\u4e8c\u91cd\u538b\u7f29\u52a0\u901f\u706b\u628a",
+  "block.torcherino.lanterino": "\u52a0\u901f\u5357\u74dc\u706f",
+  "block.torcherino.compressed_lanterino": "\u538b\u7f29\u52a0\u901f\u5357\u74dc\u706f",
+  "block.torcherino.double_compressed_lanterino": "\u4e8c\u91cd\u538b\u7f29\u52a0\u901f\u5357\u74dc\u706f"
+}

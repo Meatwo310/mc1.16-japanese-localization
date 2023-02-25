@@ -1,0 +1,13 @@
+{
+  "block.enchantmentmachine.enchanter_block": "エンチャンター",
+  "tile.enchantmentmachine.enchanter.name": "エンチャンター",
+  "block.enchantmentmachine.disenchanter_block": "ディスエンチャンター",
+  "tile.enchantmentmachine.disenchanter.name": "ディスエンチャンター",
+  "block.enchantmentmachine.enchantment_block": "エンチャントブロック",
+  "itemGroup.enchantmentmachine": "エンチャントマシン",
+  "text.enchantmentmachine.enchant": "エンチャント",
+  "text.enchantmentmachine.enchant_for_level": "%dレベルを消費してエンチャント",
+  "text.enchantmentmachine.require_level": "%dレベルが必要",
+  "text.enchantmentmachine.unavailable": "適用不可",
+  "text.enchantment_block.contained_enchantments": "含まれているエンチャント: %s"
+}

@@ -1,0 +1,21 @@
+{
+  "commands.sereneseasons.usage": "/season <get/set> [args]",
+  "commands.sereneseasons.getseason.success": "Current season is %s, day %s/%s, tick %s/%s",
+  "commands.sereneseasons.setseason.success": "Set season to %s",
+  "commands.sereneseasons.setseason.fail": "Invalid season %s",
+  "commands.sereneseasons.setseason.disabled": "Seasons are currently disabled!",
+
+  "itemGroup.tabSereneSeasons": "Serene Seasons",
+
+  "block.sereneseasons.season_sensor": "季節検出器",
+  
+  "item.sereneseasons.ss_icon": "SS Icon",
+  "item.sereneseasons.calendar": "カレンダー",
+
+  "desc.sereneseasons.fertile_seasons": "適した季節",
+  "desc.sereneseasons.year_round": "年中",
+  "desc.sereneseasons.spring": "春",
+  "desc.sereneseasons.summer": "夏",
+  "desc.sereneseasons.autumn": "秋",
+  "desc.sereneseasons.winter": "冬"
+}
