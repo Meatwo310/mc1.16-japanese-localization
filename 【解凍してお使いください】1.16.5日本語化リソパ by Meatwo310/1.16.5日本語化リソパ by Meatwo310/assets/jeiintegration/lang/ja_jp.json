@@ -1,0 +1,29 @@
+{
+  "_comment": "JEI Integration Language File",
+
+  "_comment": "Language Name: Japanese",
+  "_comment": "Language Region: Japan",
+  "_comment": "Language Code: ja_jp",
+
+  "_comment": "Config",
+  "config.jeiintegration.tooltips.burnTimeTooltipMode": "精錬時間のツールチップ",
+  "config.jeiintegration.tooltips.durabilityTooltipMode": "耐久度のツールチップ",
+  "config.jeiintegration.tooltips.foodTooltipMode": "満腹度/飽和度のツールチップ",
+  "config.jeiintegration.tooltips.maxStackSizeTooltipMode": "最大スタック数のツールチップ",
+  "config.jeiintegration.tooltips.nbtTooltipMode": "NBTデータのツールチップ",
+  "config.jeiintegration.tooltips.registryNameTooltipMode": "レジストリ名のツールチップ",
+  "config.jeiintegration.tooltips.tagsTooltipMode": "鉱石辞書のツールチップ",
+  "config.jeiintegration.tooltips.translationKeyTooltipMode": "翻訳キーのツールチップ",
+
+  "_comment": "Tooltips",
+  "tooltip.jeiintegration.burnTime": "精錬時間:",
+  "tooltip.jeiintegration.burnTime.suffix": "ティック",
+  "tooltip.jeiintegration.durability": "耐久度:",
+  "tooltip.jeiintegration.hunger": "満腹度:",
+  "tooltip.jeiintegration.saturation": "飽和度:",
+  "tooltip.jeiintegration.maxStackSize": "スタック数:",
+  "tooltip.jeiintegration.nbtTagData": "NBT:",
+  "tooltip.jeiintegration.registryName": "ID:",
+  "tooltip.jeiintegration.tags": "鉱石辞書:",
+  "tooltip.jeiintegration.translationKey": "翻訳キー:"
+}

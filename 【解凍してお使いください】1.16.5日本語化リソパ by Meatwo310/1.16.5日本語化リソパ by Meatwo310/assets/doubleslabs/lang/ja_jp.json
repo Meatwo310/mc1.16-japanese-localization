@@ -1,0 +1,7 @@
+{
+  "itemGroup.verticalslabs": "垂直ハーフブロック",
+  "item.vertical_slab.prefix": "垂直な%s",
+  "item.vertical_slab.tooltip": "Mod: ",
+  "doubleslabs.keycategory": "二重ハーフブロック",
+  "doubleslabs.key.toggleVerticalSlabPlacement": "垂直ハーフブロックの設置を切り替える"
+}

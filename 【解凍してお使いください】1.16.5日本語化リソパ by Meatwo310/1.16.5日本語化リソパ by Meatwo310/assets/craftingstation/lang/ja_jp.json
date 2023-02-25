@@ -1,0 +1,8 @@
+{
+  "block.craftingstation.crafting_station": "改良作業台",
+  "block.craftingstation.crafting_station_slab": "改良作業台のハーフブロック",
+  "title.crafting_station": "改良作業台",
+  "text.crafting_station.error": "Bad recipe %s found, see log for details",
+  "text.crafting_station.clear": "クラフトグリッドをクリア"
+
+}

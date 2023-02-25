@@ -1,0 +1,17 @@
+{
+  "block.playerhopper.playerhopper": "プレイヤーホッパー",
+  "playerhopper.player.added": "あなたはこのプレイヤーホッパーのホワイトリストに登録されました",
+  "playerhopper.player.removed": "あなたはこのプレイヤーホッパーのホワイトリストから除外されました",
+  "playerhopper.item.added.begin": "",
+  "playerhopper.item.added.end": "をプレイヤーホッパーのブラックリストに登録しました",
+  "playerhopper.item.removed.begin": "",
+  "playerhopper.item.removed.end": "をプレイヤーホッパーのブラックリストから除外しました",
+  "playerhopper.modechange": "モード: ",
+  "playerhopper.mode.inventory": "インベントリ",
+  "playerhopper.mode.armor_hotbar_inventory": "防具、ホットバー、インベントリ",
+  "playerhopper.mode.armor_hotbar": "防具、ホットバー",
+  "playerhopper.mode.hotbar_inventory": "ホットバー、インベントリ",
+  "playerhopper.mode.armor_inventory": "防具、インベントリ",
+  "playerhopper.mode.armor": "防具",
+  "playerhopper.mode.hotbar": "ホットバー"
+}

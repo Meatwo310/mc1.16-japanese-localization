@@ -1,0 +1,20 @@
+{
+  "block.torcherino.torcherino": "加速松明",
+  "block.torcherino.compressed_torcherino": "圧縮加速松明",
+  "block.torcherino.double_compressed_torcherino": "二重圧縮加速松明",
+  "block.torcherino.lanterino": "加速ジャック・オ・ランタン",
+  "block.torcherino.compressed_lanterino": "圧縮加速ジャック・オ・ランタン",
+  "block.torcherino.double_compressed_lanterino": "二重圧縮加速ジャック・オ・ランタン",
+  "block.torcherino.lantern": "加速ランタン",
+  "block.torcherino.compressed_lantern": "圧縮加速ランタン",
+  "block.torcherino.double_compressed_lantern": "二重圧縮加速ランタン",
+  "gui.torcherino.speed": "速度: %s%%",
+  "gui.torcherino.x_range": "X範囲: %s ブロック",
+  "gui.torcherino.z_range": "Z範囲: %s ブロック",
+  "gui.torcherino.y_range": "Y範囲: %s ブロック",
+  "gui.torcherino.mode": "モード: %s",
+  "gui.torcherino.mode.normal": "レッドストーン通常",
+  "gui.torcherino.mode.inverted": "レッドストーン反転",
+  "gui.torcherino.mode.ignored": "レッドストーン無視",
+  "gui.torcherino.mode.off": "オフ"
+}
