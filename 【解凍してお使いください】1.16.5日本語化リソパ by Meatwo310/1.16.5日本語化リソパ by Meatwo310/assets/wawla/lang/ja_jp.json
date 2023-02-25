@@ -1,0 +1,21 @@
+{
+  "info.wawla.growingage": "成長時間: %s",
+  "info.wawla.breedingtime": "繁殖クールダウン: %s",
+  "info.wawla.breedingitem": "繁殖可能",
+  "info.wawla.armor": "防具: %d",
+  "info.wawla.blastresist": "爆発耐性: %s",
+  "info.wawla.progression": "進捗 %d%%",
+  "info.wawla.hardness": "硬さ: %s",
+  "info.wawla.jump": "ジャンプ: %s",
+  "info.wawla.speed": "スピード: %s",
+  "info.wawla.item": "アイテム: %s",
+  "info.wawla.player": "プレイヤー: %s",
+  "info.wawla.profession": "%s %s",
+  "info.wawla.villager.name": "\u00a7f%s %s",
+  "info.wawla.villager.exp": "Exp: %d / %d",
+  "info.wawla.enchpower": "エンチャントパワー: %s",
+  "info.wawla.beehive.empty": "空",
+  "info.wawla.beehive.count": "ハチ: %d",
+  "info.wawla.beehive.honey": "ハチミツ:\u00a76 %d",
+  "info.wawla.beehive.smoked": "いぶされている"
+}
