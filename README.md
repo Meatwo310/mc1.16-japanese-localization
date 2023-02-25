@@ -1,2 +1,2 @@
-# mc1.16-japanese-localization
+# 1.16日本語化リソパ
 マイクラ1.16向けのMODをいくつか翻訳します。
